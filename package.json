@@ -1,0 +1,24 @@
+{
+  "name": "utils-array-diff",
+  "version": "1.0.0",
+  "description": "array difference function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuitaocrazy/utils-array-diff.git"
+  },
+  "keywords": [
+    "utils",
+    "array",
+    "diff"
+  ],
+  "author": "cuitao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuitaocrazy/utils-array-diff/issues"
+  },
+  "homepage": "https://github.com/cuitaocrazy/utils-array-diff#readme"
+}
